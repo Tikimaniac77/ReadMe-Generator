@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "github-api": "^3.4.0",
+    "inquirer": "^8.2.0"
   }
 }
