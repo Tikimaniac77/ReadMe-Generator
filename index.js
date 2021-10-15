@@ -18,7 +18,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'installation',
-            message: 'What are the insctructions to run your Project?',
+            message: 'What are the insctructions to install & run your application?',
         },
         {
             type: 'input',
