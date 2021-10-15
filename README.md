@@ -37,7 +37,9 @@ After answering all the prompts, the README has some automatically generated bad
 
 ## Usage
 
-![Gif demo of README-generator](README-Generator-DemoGIF.gif)
+![Gif demo of README-generator](./README-Generator-DemoGif.gif)
+
+
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your your project and Github Info. 
 From there, the application will generate the README.txt and a table of contents for the README based on your responses to the Inquirer prompts. 
@@ -45,6 +47,7 @@ The README will also include badges for your GitHub repo.
 fs.writeFile is used to generate your project's README file.
 
 Link to Demo Video of Application: [Demo Video](https://watch.screencastify.com/v/R4LlfpFIPFmvYvwB2oNo)
+
 
 ==========================================================
 
